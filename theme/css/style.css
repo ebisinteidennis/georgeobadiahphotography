@@ -166,11 +166,11 @@ main > section {
 }
 
 .section-title.white p {
-  color: #fff;
+  color: #ddcfcf;
 }
 
 .section-title.white h2 {
-  color: #fff;
+  color: #ddcfcf;
 }
 
 .section-title h2:after {
@@ -185,7 +185,7 @@ main > section {
 }
 
 .section-title.white h2:after {
-  background: #fff;
+  background: #ddcfcf;
 }
 
 .parallax {
@@ -199,7 +199,7 @@ main > section {
 /*	Preloader
 /* ==========================================*/
 #preloader {
-  background-color: #fff;
+  background-color: #ddcfcf;
   position: fixed;
   width: 100%;
   height: 100%;
